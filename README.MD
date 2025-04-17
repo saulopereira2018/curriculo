@@ -1,8 +1,5 @@
 # 👨‍💻 Saulo Pereira da Silva
 
-📍 Brasília, DF, Brasil  
-📞 +55 (61) 99939-4323  
-✉️ saulopsg@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/saulo-pereira-silva) | [GitHub](https://github.com/saulopereira2018) | [Lattes](https://lattes.cnpq.br/6192738039315025)
 
 ---
